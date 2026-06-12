@@ -4,8 +4,8 @@
 #include <WebServer.h>
 #include <WiFi.h>
 
-const char* WIFI_SSID = "M3_Devices";
-const char* WIFI_PASSWORD = "Marzook7494.";
+const char* WIFI_SSID = "YOUR_WIFI_SSID";
+const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
 
 enum DisplayMode {
   MODE_PART,
