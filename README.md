@@ -125,8 +125,8 @@ If Arduino IDE asks to move or rename files into a sketch folder, allow it.
 In the source code, find these lines:
 
 ```cpp
-const char* WIFI_SSID = "M3_Devices";
-const char* WIFI_PASSWORD = "Marzook7494.";
+const char* WIFI_SSID = "YOUR_WIFI_SSID";
+const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
 ```
 
 Replace them with your own Wi-Fi details if needed.
